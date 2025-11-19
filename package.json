@@ -1,5 +1,5 @@
 {
-  "name": "hello-react19-tailwindcss",
+  "name": "Yakisuna OpenData Viewer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,12 +11,15 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
+    "maplibre-gl": "^5.13.0",
+    "pmtiles": "^4.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
+    "@types/maplibre-gl": "^1.14.0",
     "@types/node": "^24.6.0",
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.1.9",
